@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Design of Everyday Things",
+    "category": "Design",
+    "description": "Design of everyday things",
+    "pdfPath": "pdfs/Design_of_everyday_thing.pdf"
+  },
+  {
+    "title": "Foundation-design-principles-and-practices-Donald P Coduto",
+    "category": "Design",
+    "description": "Foundation design principles and practices",
+    "pdfPath": "pdfs/foundation_design_principles_and_practices.pdf"
+  },
+  {
+    "title": "UHameed-PrinciplesofDesign",
+    "category": "Design",
+    "description": "Principles of Design",
+    "pdfPath": "pdfs/u_hammed_principles_of_design.pdf"
+  }
+]
+

@@ -1,0 +1,141 @@
+[
+  {
+    "courseId": "C101",
+    "title": "Materials & Craftsmanship",
+    "description": "Hands-on materials, making techniques and craft traditions.",
+    "image": "https://images.pexels.com/photos/3738080/pexels-photo-3738080.jpeg",
+    "chapters": [
+      {
+        "title": "Overview & Course Outline",
+        "type": "Lecture PDF",
+        "pdfPath": "pdfs/materials-craftsmanship-overview.pdf"
+      },
+      {
+        "title": "Studio Exercises & Case Studies",
+        "type": "Lecture PDF",
+        "pdfPath": "pdfs/materials-craftsmanship-studio-exercises.pdf"
+      },
+      {
+        "title": "Student Project Archive",
+        "type": "Student Archive",
+        "pdfPath": "pdfs/materials-craftsmanship-student-archive.pdf"
+      }
+    ]
+  },
+  {
+    "courseId": "C102",
+    "title": "AI Made for India",
+    "description": "AI approaches and solutions tuned to Indian contexts.",
+    "image": "https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg",
+    "chapters": [
+      {
+        "title": "Introduction to AI in Indian Contexts",
+        "type": "Lecture PDF",
+        "pdfPath": "pdfs/ai-made-for-india-introduction.pdf"
+      },
+      {
+        "title": "Case Studies: Indian Applications",
+        "type": "Lecture PDF",
+        "pdfPath": "pdfs/ai-made-for-india-case-studies.pdf"
+      },
+      {
+        "title": "Datasets & Project Guidelines",
+        "type": "Student Archive",
+        "pdfPath": "pdfs/ai-made-for-india-project-guidelines.pdf"
+      }
+    ]
+  },
+  {
+    "courseId": "C103",
+    "title": "Fundamentals of Design",
+    "description": "Core principles of form, composition, colour and perception.",
+    "image": "https://images.pexels.com/photos/4348403/pexels-photo-4348403.jpeg",
+    "chapters": [
+      {
+        "title": "Design Principles & Visual Grammar",
+        "type": "Lecture PDF",
+        "pdfPath": "pdfs/fundamentals-design-principles.pdf"
+      },
+      {
+        "title": "Colour, Form & Perception",
+        "type": "Lecture PDF",
+        "pdfPath": "pdfs/fundamentals-design-colour-form.pdf"
+      },
+      {
+        "title": "Assignment Briefs & Rubrics",
+        "type": "Student Archive",
+        "pdfPath": "pdfs/fundamentals-design-assignments.pdf"
+      }
+    ]
+  },
+  {
+    "courseId": "C104",
+    "title": "Design Dynamics",
+    "description": "Movement, rhythm and visual storytelling in studio work.",
+    "image": "https://images.pexels.com/photos/3184296/pexels-photo-3184296.jpeg",
+    "chapters": [
+      {
+        "title": "Motion, Rhythm & Space",
+        "type": "Lecture PDF",
+        "pdfPath": "pdfs/design-dynamics-motion-rhythm.pdf"
+      },
+      {
+        "title": "Narrative & Storyboarding",
+        "type": "Lecture PDF",
+        "pdfPath": "pdfs/design-dynamics-storyboarding.pdf"
+      },
+      {
+        "title": "Studio Projects Portfolio",
+        "type": "Student Archive",
+        "pdfPath": "pdfs/design-dynamics-projects.pdf"
+      }
+    ]
+  },
+  {
+    "courseId": "C105",
+    "title": "Design & Entrepreneurship",
+    "description": "Design-led startups, product thinking and business basics.",
+    "image": "https://images.pexels.com/photos/3184416/pexels-photo-3184416.jpeg",
+    "chapters": [
+      {
+        "title": "Product Thinking & Opportunity Mapping",
+        "type": "Lecture PDF",
+        "pdfPath": "pdfs/design-entrepreneurship-product-thinking.pdf"
+      },
+      {
+        "title": "Business Models & Go-to-Market",
+        "type": "Lecture PDF",
+        "pdfPath": "pdfs/design-entrepreneurship-business-models.pdf"
+      },
+      {
+        "title": "Startup Pitch Deck Samples",
+        "type": "Student Archive",
+        "pdfPath": "pdfs/design-entrepreneurship-pitch-decks.pdf"
+      }
+    ]
+  },
+  {
+    "courseId": "C106",
+    "title": "Professional Communication & Academic Writing",
+    "description": "Writing, presentations, and communication for academia and practice.",
+    "image": "https://images.pexels.com/photos/3182749/pexels-photo-3182749.jpeg",
+    "chapters": [
+      {
+        "title": "Academic Writing & Referencing",
+        "type": "Lecture PDF",
+        "pdfPath": "pdfs/professional-communication-academic-writing.pdf"
+      },
+      {
+        "title": "Presentation Skills & Visual Aids",
+        "type": "Lecture PDF",
+        "pdfPath": "pdfs/professional-communication-presentations.pdf"
+      },
+      {
+        "title": "Sample Reports & Templates",
+        "type": "Student Archive",
+        "pdfPath": "pdfs/professional-communication-templates.pdf"
+      }
+    ]
+  }
+]
+

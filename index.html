@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Karnavati University Digital Library</title>
+
+  <!-- Main stylesheet -->
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+  <!-- =========================
+       NAVBAR
+       ========================= -->
+  <header class="navbar">
+    <div class="navbar__brand">
+      <span class="navbar__logo-circle">KU</span>
+      <span class="navbar__title">Karnavati University Digital Library</span>
+    </div>
+    <nav class="navbar__nav">
+      <button class="nav-link active" data-target="home-section">Home</button>
+      <button class="nav-link" data-target="ebooks-section">E-Books</button>
+      <button class="nav-link" data-target="courses-section">Courses</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- =========================
+         HERO / HOME SECTION
+         ========================= -->
+    <section id="home-section" class="view-section">
+      <div class="hero">
+        <div class="hero__content">
+          <h1 class="hero__title">Welcome to the Digital Library</h1>
+          <p class="hero__subtitle">
+            Access curated academic resources, e-books, and course materials anytime, anywhere.
+            Learn, explore, and grow with our digital collection.
+          </p>
+          <div class="hero__actions">
+            <button id="explore-ebooks-btn" class="btn btn--primary">Explore E-Books</button>
+            <button id="browse-courses-btn" class="btn btn--ghost">Browse Courses</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- =========================
+         E-BOOKS SECTION (Home)
+         ========================= -->
+    <section id="ebooks-section" class="view-section">
+      <div class="section-header">
+        <h2>Most Read E-Books</h2>
+        <p>Browse popular titles from our digital collection.</p>
+      </div>
+      <div id="ebooks-container" class="card-grid">
+        <!-- E-book cards will be injected here via JavaScript -->
+      </div>
+      <div id="ebooks-empty-state" class="empty-state hidden">
+        <p>No e-books available at the moment. Please check back later.</p>
+      </div>
+    </section>
+
+    <!-- =========================
+         COURSES SECTION (Home)
+         ========================= -->
+    <section id="courses-section" class="view-section">
+      <div class="section-header">
+        <h2>Courses</h2>
+        <p>Select a course to view its chapters and digital resources.</p>
+      </div>
+      <div id="courses-container" class="card-grid card-grid--courses">
+        <!-- Course cards will be injected here via JavaScript -->
+      </div>
+      <div id="courses-empty-state" class="empty-state hidden">
+        <p>No courses available at the moment. Please check back later.</p>
+      </div>
+    </section>
+
+    <!-- =========================
+         COURSE DETAIL VIEW
+         ========================= -->
+    <section id="course-detail-section" class="view-section hidden">
+      <button id="back-to-courses-btn" class="back-btn">&larr; Back to Courses</button>
+
+      <div class="course-detail">
+        <div class="course-detail__header">
+          <img id="course-detail-image" class="course-detail__image" src="" alt="Course thumbnail" />
+          <div class="course-detail__text">
+            <h2 id="course-detail-title"></h2>
+            <p id="course-detail-description" class="course-detail__description"></p>
+          </div>
+        </div>
+
+        <div class="course-detail__chapters">
+          <h3>Chapters &amp; Resources</h3>
+          <ul id="course-detail-chapters" class="chapter-list">
+            <!-- Chapters will be injected here via JavaScript -->
+          </ul>
+          <div id="chapters-empty-state" class="empty-state hidden">
+            <p>No chapters or resources have been added for this course yet.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>&copy; <span id="current-year"></span> Karnavati University Digital Library. All rights reserved.</p>
+  </footer>
+
+  <!-- Main script -->
+  <script src="js/script.js"></script>
+</body>
+
+</html>
+
