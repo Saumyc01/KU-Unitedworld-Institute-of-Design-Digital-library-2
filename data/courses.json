@@ -8,17 +8,17 @@
       {
         "title": "Overview & Course Outline",
         "type": "Lecture PDF",
-        "pdfPath": "pdfs/fiber_to_fabric_summary.pdf"
+        "pdfPath": "pdfs/materials-craftsmanship_fiber_to_fabric_summary.pdf"
       },
       {
-        "title": "Studio Exercises & Case Studies",
+        "title": "Sample Looms",
         "type": "Lecture PDF",
-        "pdfPath": "pdfs/materials-craftsmanship-studio-exercises.pdf"
+        "pdfPath": "pdfs/materials-craftsmanship_sample_loom.pdf"
       },
       {
-        "title": "Student Project Archive",
-        "type": "Student Archive",
-        "pdfPath": "pdfs/materials-craftsmanship-student-archive.pdf"
+        "title": "Tie Dye",
+        "type": "Lecture PDF",
+        "pdfPath": "pdfs/materials-craftsmanship_tie_dye.pdf"
       }
     ]
   },
@@ -31,17 +31,17 @@
       {
         "title": "Introduction to AI in Indian Contexts",
         "type": "Lecture PDF",
-        "pdfPath": "pdfs/ai-made-for-india-introduction.pdf"
+        "pdfPath": "pdfs/ai-made-for-india_INTRODUCTION-TO-AI.pdf"
       },
       {
         "title": "Case Studies: Indian Applications",
         "type": "Lecture PDF",
-        "pdfPath": "pdfs/ai-made-for-india-case-studies.pdf"
+        "pdfPath": "pdfs/ai-made-for-india_AI_Study_Material_Handout.pdf"
       },
       {
         "title": "Datasets & Project Guidelines",
         "type": "Student Archive",
-        "pdfPath": "pdfs/ai-made-for-india-project-guidelines.pdf"
+        "pdfPath": "pdfs/ai-made-for-india_Masterclass Presentation.pdf"
       }
     ]
   },
